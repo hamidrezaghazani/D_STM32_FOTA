@@ -1,5 +1,5 @@
 {
-  "link": "blob:https://github.com/af72f774-82e9-4d21-b62e-07c438cb6b32",  
+  "link": "https://raw.githubusercontent.com/hamidrezaghazani/D_STM32_FOTA/refs/heads/main/Files_1/BIN_Files/010_STM32F1.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
